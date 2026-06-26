@@ -117,6 +117,18 @@ Includes:
 
 ---
 
+## Database Schema
+
+<img width="1000" height="580" alt="OVERVIEW" src="https://github.com/user-attachments/assets/da5f9e83-f3ac-4957-96c4-539a7a64c9ca" />
+<img width="1000" height="580" alt="ORDERS" src="https://github.com/user-attachments/assets/f4ac86c3-a29d-4e44-8c26-d47bf4de3cfb" />
+<img width="1000" height="580" alt="CUSTOMERS" src="https://github.com/user-attachments/assets/336e492e-a53c-4f1a-a6e3-17a043670364" />
+<img width="1000" height="580" alt="PRODUCTS" src="https://github.com/user-attachments/assets/93a442ca-1d87-449b-9ceb-a414575baf49" />
+
+**Dashboard Link:**
+(https://public.tableau.com/shared/RGPCQ53NJ?:display_count=n&:origin=viz_share_link)
+
+---
+
 # Key Insights
 
 - Revenue experienced significant growth between 2016 and 2018.
