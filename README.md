@@ -124,6 +124,8 @@ Includes:
 <img width="1000" height="580" alt="CUSTOMERS" src="https://github.com/user-attachments/assets/336e492e-a53c-4f1a-a6e3-17a043670364" />
 <img width="1000" height="580" alt="PRODUCTS" src="https://github.com/user-attachments/assets/93a442ca-1d87-449b-9ceb-a414575baf49" />
 
+---
+
 **Dashboard Link:**
 (https://public.tableau.com/shared/RGPCQ53NJ?:display_count=n&:origin=viz_share_link)
 
@@ -151,13 +153,13 @@ E-Commerce-Performance-Analysis/
 │   └── Processed Data
 │
 ├── SQL/
-│   ├── 01_Database_Creation.sql
-│   ├── 02_Raw_Tables.sql
-│   ├── 03_Cleaned_Tables.sql
-│   ├── 04_Bronze_Stored_Procedures.sql
-│   ├── 05_Silver_Stored_Procedures.sql
-│   ├── 06_Views.sql
-│   └── 07_Exploratory_Data_Analysis.sql
+│   ├── Database_Creation.sql
+│   ├── Raw_Tables.sql
+│   ├── Cleaned_Tables.sql
+│   ├── Bronze_Stored_Procedures.sql
+│   ├── Silver_Stored_Procedures.sql
+│   ├── Views.sql
+│   └── Exploratory_Data_Analysis.sql
 │
 ├── Python/
 │   └── Data_Cleaning.ipynb
